@@ -1,0 +1,4 @@
+def sum(total)
+  total 6 + 3
+end
+return total 
